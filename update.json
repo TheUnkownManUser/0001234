@@ -1,0 +1,26 @@
+{
+  "notify": [
+    {
+      "actionUrl": "https://google.com",
+      "message": "welcome!",
+      "showCurrently": false,
+      "isJustOneTime": true,
+      "showTime": 1,
+      "id": 1
+    },
+    {
+      "actionUrl": "https://google.com",
+      "message": "لطفا یه برنامه در بازار نظر دهید !",
+      "showCurrently": false,
+      "isJustOneTime": false,
+      "showTime": 3,
+      "id": 1
+    }
+  ],
+  "updateMessage": {
+    "message": "بروز رسانی جدید در دسترس است اطفا بروز کنید !"
+  },
+  "updateUrl": "https://cafebazaar.ir/app/expressteam.sina.Rubino",
+  "forceUpdate": false,
+  "currentVersion": 26
+}
