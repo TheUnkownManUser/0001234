@@ -3,7 +3,7 @@
     {
       "actionUrl": "https://google.com",
       "message": "welcome!",
-      "showCurrently": false,
+      "showCurrently": true,
       "isJustOneTime": true,
       "showTime": 1,
       "id": 1
@@ -14,7 +14,7 @@
       "showCurrently": false,
       "isJustOneTime": false,
       "showTime": 3,
-      "id": 1
+      "id": 2
     }
   ],
   "updateMessage": {
