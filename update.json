@@ -3,19 +3,12 @@
     {
       "actionUrl": "https://google.com",
       "message": "welcome!",
-      "showCurrently": true,
+      "showCurrently": false,
       "isJustOneTime": true,
       "showTime": 1,
       "id": 1
     },
-	  {
-      "actionUrl": "",
-      "message": "test message ",
-      "showCurrently": true,
-      "isJustOneTime": true,
-      "showTime": 1,
-      "id": 2
-    },
+	 
     {
       "actionUrl": "https://google.com",
       "message": "لطفا یه برنامه در بازار نظر دهید !",
